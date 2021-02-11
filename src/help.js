@@ -101,7 +101,7 @@ const help = (prefix) => {
 ➸ Nota : Você precisa ser admin e o bot também
 
        • ────── ✾ ────── •
-       *MENU DO VINIZEUS*【✔】
+       *MENU DO DARKMODZ*【✔】
        • ────── ✾ ────── •              
 
 ➸ *${prefix}help1* ♔
