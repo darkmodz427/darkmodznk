@@ -2,12 +2,12 @@ const help = (prefix) => {
 	return `
 
 ╔════════════════════
-║        🌹 DARK BOT 🌹
+║        🌹 Hyouka Bute 🌹
 ╠════════════════════
 
 
 ➸ Prefix:  *「${prefix} 」*
-➸ Status: *「 Online 」*
+➸ Status: *「 Onlaine KKKK 」*
 
        • ──── ✾ ──── •
        *FIGURINHAS*【✔】
@@ -88,7 +88,7 @@ const help = (prefix) => {
 ➸ uso : *${prefix}add 5585xxxxx*\n
 ➸ Nota : o bot precisa ser admin!\n
 ➸ Comando : *${prefix}kick*
-➸ útil em : remover membros do grupo
+➸ útil em : remover membros do grupo (NÃO USAR!)
 ➸ uso : *${prefix}kick e o @da pessoa*\n
 ➸ Nota : Você precisa ser admin e o bot também
 ➸ Comando : *${prefix}promote*
@@ -101,14 +101,15 @@ const help = (prefix) => {
 ➸ Nota : Você precisa ser admin e o bot também
 
        • ────── ✾ ────── •
-       *MENU DO DARKMODZ*【✔】
+       *MENU DO Hyouka*【✔】
        • ────── ✾ ────── •              
 
 ➸ *${prefix}help1* ♔
     
 
 ╔════════════════════
-  FEITO POR *DARK*
+  FEITO POR *Hyouka*
+  Aí mia bucetinha KKK
   DUVIDAS? 👇
   WA.me/5521980815830
 ╚════════════════════`
